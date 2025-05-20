@@ -43,10 +43,10 @@ I'm currently a 3rd-year Computer Science student at Technocrats Institute of Te
 ---
 
 ## 🏆 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilsoni04&show_icons=true&theme=react)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilsoni04&show_icons=true&theme=react)   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsoni04&layout=compact&theme=react)
 
 ---
 
 > *"Consistency and curiosity are the keys to mastery. Let's build, break, and learn!"*
-
+> *"ZeroToUnbelievable!"*
