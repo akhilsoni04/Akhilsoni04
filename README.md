@@ -14,10 +14,10 @@ I'm currently a 3rd-year Computer Science student at Technocrats Institute of Te
 
 ## 🔧 Tech Stack
 
-💻 Languages: Java, JavaScript, HTML5, CSS3
-🧱 Libraries/Frameworks: React.js, TailwindCSS, Node.js, Bootstrap
-🧰 Tools: Git, GitHub, VS Code, Figma, Postman
-🧠 Concepts: DSA, REST APIs, DBMS
+💻 Languages: Java, JavaScript, HTML5, CSS3   
+🧱 Libraries/Frameworks: React.js, TailwindCSS, Node.js, Bootstrap   
+🧰 Tools: Git, GitHub, VS Code, Figma, Postman   
+🧠 Concepts: DSA, REST APIs, DBMS   
 
 ---
 
