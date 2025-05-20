@@ -48,5 +48,5 @@ I'm currently a 3rd-year Computer Science student at Technocrats Institute of Te
 
 ---
 
-> *"Consistency and curiosity are the keys to mastery. Let's build, break, and learn!"*
+> *"Consistency and curiosity are the keys to mastery. Let's build, break, and learn!"*  
 > *"ZeroToUnbelievable!"*
