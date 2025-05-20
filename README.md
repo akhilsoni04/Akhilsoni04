@@ -35,10 +35,10 @@ I'm currently a 3rd-year Computer Science student at Technocrats Institute of Te
 ---
 
 ## 🌐 Let's Connect!
-📫 Reach me at: [akhilsoni2611@example.com]  
-📁 Portfolio: [akhil-basic-folio.vercel.app]  
-🔗 LinkedIn: [https://www.linkedin.com/in/akhil-soni-633b50246/]  
-📘 GitHub: [akhilsoni04]
+📫 Reach me at: [(akhilsoni2611@example.com)]  
+📁 Portfolio: [(akhil-basic-folio.vercel.app)]  
+🔗 LinkedIn: [(https://www.linkedin.com/in/akhil-soni-633b50246/)]  
+📘 GitHub: [(akhilsoni04)]
 
 ---
 
