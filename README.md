@@ -2,7 +2,7 @@
 
 🎓 CS Undergrad | 💻 Aspiring Full-Stack Developer | 📈 DSA & System Design Enthusiast
 
-I'm currently a 3rd-year Computer Science student at Technocrats Institute of Technology, passionate about building meaningful projects and solving real-world problems through code. With a strong foundation in Java, JavaScript, and data structures, I'm constantly improving my development and problem-solving skills to prepare for placements.
+I'm currently a 4th-year Computer Science student at Technocrats Institute of Technology, passionate about building meaningful projects and solving real-world problems through code. With a strong foundation in Java, JavaScript, and data structures, I'm constantly improving my development and problem-solving skills to prepare for placements.
 
 🚀 **What I Do:**
 - 💡 Building smart, clean, and responsive web applications
@@ -14,10 +14,10 @@ I'm currently a 3rd-year Computer Science student at Technocrats Institute of Te
 
 ## 🔧 Tech Stack
 
-💻 Languages: Java, JavaScript, HTML5, CSS3   
+💻 Languages: Java, JavaScript, Python, HTML5, CSS3   
 🧱 Libraries/Frameworks: React.js, TailwindCSS, Node.js, Bootstrap   
 🧰 Tools: Git, GitHub, VS Code, Figma, Postman   
-🧠 Concepts: DSA, REST APIs, DBMS   
+🧠 Concepts: DSA, REST APIs, DBMS, OS, OOPS    
 
 ---
 
