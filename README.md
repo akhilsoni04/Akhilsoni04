@@ -1,53 +1,94 @@
-# 👋 Hi there! I'm [Akhil Soni] 
+# 👋 Hi, I'm Akhil Soni
 
-🎓 CS Undergrad | 💻 Aspiring Full-Stack Developer | 📈 DSA & System Design Enthusiast
+🎓 Final Year B.Tech (Artificial Intelligence & Data Science)
+💻 Full-Stack Developer | 📊 Data Engineering Enthusiast
 
-I'm currently a 4th-year Computer Science student at Technocrats Institute of Technology, passionate about building meaningful projects and solving real-world problems through code. With a strong foundation in Java, JavaScript, and data structures, I'm constantly improving my development and problem-solving skills to prepare for placements.
-
-🚀 **What I Do:**
-- 💡 Building smart, clean, and responsive web applications
-- 🧠 Mastering DSA & web development for efficient problem solving
-- 🛠️ Exploring APIs, creating user-centric interfaces, and managing backend logic
-- 📚 Learning daily and documenting my journey through GitHub projects
+Passionate about building **scalable web applications and data-driven systems**.
+Experienced with **MERN stack, Java, and cloud platforms**, currently exploring **Python, PL/SQL, Snowflake, and Data Engineering**.
 
 ---
 
-## 🔧 Tech Stack
+## 🚀 What I Do
 
-💻 Languages: Java, JavaScript, Python, HTML5, CSS3   
-🧱 Libraries/Frameworks: React.js, TailwindCSS, Node.js, Bootstrap   
-🧰 Tools: Git, GitHub, VS Code, Snowflake, Postman, MySQL Workbench   
-🧠 Concepts: DSA, REST APIs, GraphQL, DBMS, OS, OOPS    
-
----
-
-## 📌 Featured Projects
-- 🎨 **BuildCon** – BuildCon that represents the company about and there employee works.
-- ♻️ **ReWaste** – Surplus management platform turning waste into opportunity.
-- 🔢 **DSA Tracker** – Structured roadmap with real progress tracking on core topics.
+* Build **modern full-stack web applications**
+* Practice **Data Structures & Algorithms**
+* Work with **REST APIs and databases**
+* Explore **data pipelines and cloud technologies**
 
 ---
 
-## 🧠 Currently Learning
-- Full-stack MERN development
-- Data Engineering
-- Advanced problem-solving patterns
+## 🛠 Tech Stack
+
+**Languages**
+JavaScript | Java | C++ | C | Python *(currently exploring)*
+
+**Web Development**
+React.js | Node.js | Express.js | HTML | CSS | TailwindCSS | Bootstrap
+
+**Databases & Data**
+MongoDB | MySQL | **PL/SQL | Snowflake**
+
+**Tools & Platforms**
+Git | GitHub | Postman | VS Code | Firebase | REST APIs
+
+**Core Concepts**
+DSA | OOP | DBMS | Operating Systems | Computer Networks
 
 ---
 
-## 🌐 Let's Connect!
-📫 Reach me at: [akhilsoni2611@example.com]  
-📁 Portfolio: [akhil-basic-folio](https://akhil-basic-folio.vercel.app)  
-🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/akhil-soni-633b50246/)  
-📘 GitHub: [akhilsoni04](https://github.com/akhilsoni04)
+## 📌 Projects
+
+📚 **ChapterOne – MERN Bookstore**
+Online bookstore with secure authentication, optimized REST APIs, and payment integration.
+
+🚗 **AristoWheel – Car Rental Platform**
+React + GraphQL based vehicle rental system with search filters and responsive UI.
+
+☕ **Brewvana Café Web App**
+Responsive café website with interactive menu and modern UI.
 
 ---
 
-## 🏆 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilsoni04&show_icons=true&theme=react)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsoni04&layout=compact&theme=react)
+## 📊 Achievements
+
+* 🧠 **LeetCode:** 300+ problems solved
+* 📘 **GeeksforGeeks:** 150+ problems solved
+* 🔥 **CodeChef:** 800+ problems with 350+ day streak
+* 🎯 Selected for **QSpiders Java Full-Stack Incubation**
 
 ---
 
-> *"Consistency and curiosity are the keys to mastery. Let's build, break, and learn!"*  
-> *"ZeroToUnbelievable!"*
+## ☁️ Certifications
+
+* Microsoft **Azure Fundamentals (AZ-900)**
+* **AWS Cloud Foundations**
+* **Generative AI Mastermind**
+
+---
+
+## 🌐 Connect With Me
+
+📍 Bhopal, Madhya Pradesh
+📧 [akhilsoni2611@gmail.com](mailto:akhilsoni2611@gmail.com)
+📞 +91-7987210614
+
+🌐 Portfolio
+https://akhil-basic-folio.vercel.app
+
+💼 LinkedIn
+https://www.linkedin.com/in/akhil-soni-633b50246
+
+💻 GitHub
+https://github.com/akhilsoni04
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilsoni04\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsoni04\&layout=compact\&theme=tokyonight)
+
+---
+
+⭐ **"Consistency and curiosity drive innovation."**
