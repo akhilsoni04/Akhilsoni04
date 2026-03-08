@@ -16,8 +16,8 @@ I'm currently a 4th-year Computer Science student at Technocrats Institute of Te
 
 💻 Languages: Java, JavaScript, Python, HTML5, CSS3   
 🧱 Libraries/Frameworks: React.js, TailwindCSS, Node.js, Bootstrap   
-🧰 Tools: Git, GitHub, VS Code, Figma, Postman   
-🧠 Concepts: DSA, REST APIs, DBMS, OS, OOPS    
+🧰 Tools: Git, GitHub, VS Code, Snowflake, Postman, MySQL Workbench   
+🧠 Concepts: DSA, REST APIs, GraphQL, DBMS, OS, OOPS    
 
 ---
 
@@ -30,6 +30,7 @@ I'm currently a 4th-year Computer Science student at Technocrats Institute of Te
 
 ## 🧠 Currently Learning
 - Full-stack MERN development
+- Data Engineering
 - Advanced problem-solving patterns
 
 ---
