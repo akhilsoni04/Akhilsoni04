@@ -1,8 +1,10 @@
 # Hey, I'm Akhil 👋
 
-Building data pipelines with SQL, Python, and Snowflake.  
-Turning messy data into meaningful insights — one project at a time.
+Exploring Data Engineering by building real systems — from ingestion to transformation to insights.  
+Working with SQL, Python, and Snowflake to understand how data actually flows in production.
 
-Currently exploring: ETL, Cloud, and Data Warehousing.
+---
 
-Let's connect 🚀
+Not perfect yet, but consistently improving.
+
+Let’s build something meaningful 🚀
