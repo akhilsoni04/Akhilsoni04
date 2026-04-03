@@ -8,7 +8,7 @@
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-akhilsoni04-black?style=for-the-badge&logo=github)](https://github.com/akhilsoni04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil%20Soni-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil%20Soni-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akhil-soni-633b50246/)
 
 ---
 
@@ -55,19 +55,6 @@
 
 ---
 
-## 🚀 Projects
-
-- 🔹 Data Pipeline (API → Kafka → Storage → Processing)
-- 🔹 Stock Prediction System (ML + Visualization)
-- 🔹 MERN-based Applications
-
----
-
-## 📊 GitHub Stats
-
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilsoni04&show_icons=true&theme=radical)
-
----
 
 ## 🧭 Philosophy
 
