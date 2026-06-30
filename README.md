@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=🔥+Akhil+Soni;🚀+Data+%26+AI+Engineer;⚡+Building+Intelligent+Systems;🧠+ML+%7C+LLMs+%7C+RAG;💡+Turning+Data+into+Magic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=%3E+System+Initializing...;%3E+Hello%2C+I'm+Akhil+Soni;%3E+Data+%26+AI+Engineer+in+Progress;%3E+Building+the+Future+with+Data+%26+AI;%3E+Ready+for+Mission" alt="Typing SVG" />
 </div>
 
 
