@@ -1,72 +1,45 @@
-# Hey, I'm Akhil 👋
+# 👋 Hi, I'm Akhil Soni
 
-🚀 Exploring **Data Engineering** by building real-world systems — from ingestion → transformation → insights.  
-💡 Working with SQL, Python, and Snowflake to understand how data flows in production.
-
----
-
-## 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-akhilsoni04-black?style=for-the-badge&logo=github)](https://github.com/akhilsoni04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil%20Soni-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akhil-soni-633b50246/)
+> **Data Engineer in the making** — building scalable pipelines, one dataset at a time.
 
 ---
 
-## 🧠 Tech Stack
+## 🚀 What I Do
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+- Design **end-to-end data pipelines** (ingestion → transformation → insights)
+- Work with **Python, SQL, Snowflake, and Spark** in production-like environments
+- Bridge the gap between raw data and business decisions
 
 ---
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+## 🛠️ Core Stack
+
+| Area | Technologies |
+|------|--------------|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) |
+| **Data Engineering** | ![Snowflake](https://img.shields.io/badge/-Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) |
+| **Analytics** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| **Cloud & Tools** | ![AWS S3](https://img.shields.io/badge/-AWS%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 ---
 
-### 📊 Data Engineering
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws)
+## 📌 Current Focus
+
+- 🔨 Building **real-time data pipelines** with Kafka + Spark
+- ☁️ Exploring **Snowflake + AWS** for cloud data warehousing
+- 📊 Strengthening **DSA** for system design & optimization
 
 ---
 
-### 📈 Data Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel)
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-soni-633b50246/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhilsoni04)
 
 ---
 
-### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+## 💡 Philosophy
 
----
+> **"Data tells a story — I'm here to make it heard."**
 
-## 📈 What I'm Focused On
-
-- Building **end-to-end data pipelines**
-- Learning **real-time data systems (Kafka, Spark)**
-- Strengthening **DSA & problem-solving**
-- Exploring **Cloud + Data Engineering integration**
-
----
-
-
-## 🧭 Philosophy
-
-> Not perfect yet, but consistently improving.
-
-Let’s build something meaningful 🚀
+*Building, breaking, and learning every day. 🚀*
