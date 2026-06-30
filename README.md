@@ -6,7 +6,7 @@
 
 # 🎯 About Me
 
-```python
+
 class AIDataEngineer:
     def __init__(self):
         self.name = "Akhil Soni"
@@ -33,7 +33,7 @@ class AIDataEngineer:
             self.deploy_ai_systems()
             self.extract_insights()
             self.repeat()
-```
+
 
 ---
 
