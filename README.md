@@ -1,45 +1,85 @@
-# 👋 Hi, I'm Akhil Soni
-
-> **Data Engineer in the making** — building scalable pipelines, one dataset at a time.
-
----
-
-## 🚀 What I Do
-
-- Design **end-to-end data pipelines** (ingestion → transformation → insights)
-- Work with **Python, SQL, Snowflake, and Spark** in production-like environments
-- Bridge the gap between raw data and business decisions
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Akhil+Soni;Data+%26+AI+Engineer+in+the+making;Building+scalable+pipelines+%2B+intelligent+systems" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🛠️ Core Stack
+## 🎯 About Me
 
-| Area | Technologies |
-|------|--------------|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) |
-| **Data Engineering** | ![Snowflake](https://img.shields.io/badge/-Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) |
-| **Analytics** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-| **Cloud & Tools** | ![AWS S3](https://img.shields.io/badge/-AWS%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+```python
+class AI_DataEngineer:
+    def __init__(self):
+        self.name = "Akhil Soni"
+        self.title = "Data & AI Engineer in Progress"
+        self.mission = "Build data systems that power intelligent applications"
+        self.superpowers = ["Python", "SQL", "Snowflake", "Spark", "LLMs"]
+        self.learning = ["Real-time streaming", "RAG", "Prompt Engineering", "Agentic AI"]
+        
+    def daily_routine(self):
+        while True:
+            self.build_pipelines()
+            self.train_models()
+            self.deploy_ai_systems()
+            self.extract_insights()
+            self.repeat()
+⚡ Tech Arsenal
+<div align="center">
+📊 Data Engineering
+https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white
+https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white
+https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white
+https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white
 
----
+🤖 AI & Machine Learning
+https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white
+https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white
+https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
 
-## 📌 Current Focus
+🐍 Languages & Tools
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
-- 🔨 Building **real-time data pipelines** with Kafka + Spark
-- ☁️ Exploring **Snowflake + AWS** for cloud data warehousing
-- 📊 Strengthening **DSA** for system design & optimization
+☁️ Cloud & DevOps
+https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 
----
+📈 Analytics & Visualization
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
 
-## 🌐 Let's Connect
+</div>
+🔥 What's Cooking
+🏗️ Building scalable ETL pipelines for AI/ML data
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-soni-633b50246/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhilsoni04)
+🤖 Exploring RAG (Retrieval-Augmented Generation) systems
 
----
+📡 Learning event-driven architectures with Kafka
 
-## 💡 Philosophy
+🧠 Sharpening Prompt Engineering & Agentic AI
 
-> **"Data tells a story — I'm here to make it heard."**
+☁️ Deep-diving into Snowflake + AWS for AI workloads
 
-*Building, breaking, and learning every day. 🚀*
+📈 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akhilsoni04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsoni04&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilsoni04&theme=tokyonight&hide_border=true" /> </div>
+🏆 Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=akhilsoni04&theme=tokyonight&no-frame=true&row=2&column=4" /> </div>
+🤝 Let's Connect
+<div align="center">
+https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white
+
+</div>
+<div align="center">
+💬 "Where data meets intelligence — building the future, one pipeline at a time."
+Let's build something awesome together! 🚀
+
+⭐ Feel free to star my repos and connect!
+
+</div> ```
